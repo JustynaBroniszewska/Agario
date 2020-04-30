@@ -1,6 +1,7 @@
 #!/bin/bash
 
 sudo apt-get install libgtest-dev
+sudo apt-get install g++
 cd /usr/src/googletest/googletest
 sudo mkdir build
 cd build
