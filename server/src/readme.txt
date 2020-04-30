@@ -1,4 +1,4 @@
-gtest.sh  - instaluje gtest i cmake wersję 3.16 (potrzebne do obsługi błędów)
+gtest.sh  - instaluje gtest
 
 KlasaGlowna - przykladowa implementacja głównej klasy programu
 
