@@ -14,6 +14,11 @@ tcp_stream sock(ioc);
 net::ssl::context ctx(net::ssl::context::tlsv12);
 
 int main() {
+  // auto const address = net::ip::make_address('0.0.0.0');
+  // auto const port = static_cast<unsigned short>(std::atoi(8080));
+  int lol = 3;
   std::cout << "ECH" << std::endl;
+  // std::cout << port << std::endl;
+  std::cout << "lol" << std::endl;
   return 0;
 }
